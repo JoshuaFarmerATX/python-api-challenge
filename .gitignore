@@ -121,7 +121,7 @@ venv.bak/
 /site
 
 # mypy
-WeatherPy/api_keys.py
+**/api_keys.py
 .mypy_cache/
 .dmypy.json
 dmypy.json
